@@ -1,0 +1,26 @@
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: lightgray;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 20px 0;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 20px 0;
+}
+
+h1 {
+  font-size: 24px;
+  margin: 20px 0;
+}
+
+p {
+  font-size: 18px;
+  margin: 20px 0;
+}
